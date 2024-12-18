@@ -1,3 +1,5 @@
+###### Accelerator Track One
+
 # JavaScript Scope Drills
 
 In this lab, you’ll practice working with variable scope. You'll learn the differences between **global scope**, **function scope**, and **block scope**, as well as the behavior of variables declared using `var`, `let`, and `const`.
